@@ -1,0 +1,30 @@
+#Internal package file, do not edit.
+#Mon Jun 19 21:36:36 PDT 2017
+2.base=C\:\\Users\\geres\\AndroidStudioProjects\\ch05_ex3_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\geres\\AndroidStudioProjects\\ch05_ex3_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_action_search.png
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\geres\\AndroidStudioProjects\\ch05_ex3_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Users\\geres\\AndroidStudioProjects\\ch05_ex3_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\activity_tip_calculator.xml
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Users\\geres\\AndroidStudioProjects\\ch05_ex3_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=C\:\\Users\\geres\\AndroidStudioProjects\\ch05_ex3_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+7.set=ANDROID_RESOURCE
+count=9
+0.file=C\:\\Users\\geres\\AndroidStudioProjects\\ch05_ex3_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu-v11\\activity_tip_calculator.xml
+5.base=C\:\\Users\\geres\\AndroidStudioProjects\\ch05_ex3_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=C\:\\Users\\geres\\AndroidStudioProjects\\ch05_ex3_TipCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b76c5d28e4ebd2c7e26b1acbd7a7bacf8258741b\\classes.dex
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Users\\geres\\AndroidStudioProjects\\ch05_ex3_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Users\\geres\\AndroidStudioProjects\\ch05_ex3_TipCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1d4d6b260ab92472d71d669cc5723c638a1f0bd1\\classes.dex
+1.set=DEX
+7.base=C\:\\Users\\geres\\AndroidStudioProjects\\ch05_ex3_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=C\:\\Users\\geres\\AndroidStudioProjects\\ch05_ex3_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\geres\\AndroidStudioProjects\\ch05_ex3_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=C\:\\Users\\geres\\AndroidStudioProjects\\ch05_ex3_TipCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b76c5d28e4ebd2c7e26b1acbd7a7bacf8258741b
+3.file=C\:\\Users\\geres\\AndroidStudioProjects\\ch05_ex3_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\geres\\AndroidStudioProjects\\ch05_ex3_TipCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1d4d6b260ab92472d71d669cc5723c638a1f0bd1
+4.file=C\:\\Users\\geres\\AndroidStudioProjects\\ch05_ex3_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_tip_calculator.xml
+8.set=DEX
+0.set=ANDROID_RESOURCE
